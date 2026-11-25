@@ -1,0 +1,12 @@
+body { background: #15110d; color: #f1ebe2; font-family: 'Roboto', system-ui, sans-serif; }
+.text-gold { color: #d4af37 !important; }
+.btn-gold { background: #d4af37; color: #000; border: 0; font-weight: 600; }
+.btn-gold:hover { background: #b8962e; color: #fff; }
+.card, .table { --bs-card-bg: #1f1913; --bs-table-bg: #1f1913; --bs-table-color: #f1ebe2; --bs-table-border-color: #3a3025; }
+.card { border: 1px solid #3a3025; }
+.form-control, .form-select { background: #120e0a; color: #f1ebe2; border-color: #4a3d2f; }
+.form-control:focus, .form-select:focus { background: #120e0a; color: #fff; border-color: #d4af37; box-shadow: 0 0 0 .2rem rgba(212,175,55,.25); }
+.form-label { font-size: .9rem; }
+.nav-link.active { color: #d4af37 !important; }
+.indicador { font-size: 2rem; font-weight: 600; line-height: 1; }
+.tabela-acoes form { display: inline; }
